@@ -28,7 +28,7 @@ if st.button("Predict type of Iris"):
         np.array([[sepal_l, sepal_w, petal_l, petal_w]]))
     st.text(result[0])
 
-![1](https://github.com/Rahul-Biju-03/Rahul-Biju-03/assets/106422354/1720941e-a1c3-4efe-b776-338489815c9b)
+<img src="https://github.com/Rahul-Biju-03/Rahul-Biju-03/assets/106422354/1720941e-a1c3-4efe-b776-338489815c9b"/>
 
 st.text('')
 st.text('')
